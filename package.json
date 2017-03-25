@@ -1,0 +1,11 @@
+{
+  "dependencies": {
+    "progress": "^1.1.8"
+  },
+  "name": "tightloop",
+  "version": "1.0.0",
+  "description": "node.js performance test tool",
+  "main": "tightloop.js",
+  "author": "Jason Benterou <jason.benterou@gmail.com>",
+  "license": "MIT"
+}
